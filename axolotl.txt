@@ -1,0 +1,14 @@
+https://docs.axolotl.ai/
+
+docker run --gpus all -it winglian/axolotl:main-latest
+
+axolotl fetch examples
+
+axolotl train examples/llama-3/lora-1b.yml
+
+axolotl inference examples/llama-3/lora-1b.yml --lora-model-dir="./outputs/lora-out"
+
+axolotl inference examples/llama-3/lora-1b.yml --lora-model-dir="./outputs/lora-out" --gradio
+
+
+

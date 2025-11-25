@@ -1,0 +1,85 @@
+From anaisgomaupv@gmail.com Tue Nov 25 13:52:43 2025
+Date: Tue, 25 Nov 2025 12:51:03 +0000
+From: Anais Gomez Mari <anaisgomaupv@gmail.com>
+To: Alfons Juan <ajuan@dsic.upv.es>
+Subject: TFG - ARTICULO NVDIA
+
+
+Buenas tardes, Alfons:
+
+Disculpa la demora. Te adjunto el paper que comentamos (Describe Anything, de
+NVIDIA) y un breve resumen de la propuesta del proyecto que he venido
+desarrollando.
+
+La idea nace a raíz de la colaboración con la aplicación Be My Eyes, una
+plataforma que conecta a personas con problemas de visión con voluntarios que
+pueden asistirles a través de la cámara del móvil en tareas cotidianas:
+localizar una puerta, identificar el color de una prenda o encontrar un objeto.
+Este contacto directo con las necesidades reales en este ámbito, unido al auge y
+a la mejora de los LLM, me llevó a plantear el desarrollo de un dispositivo que
+actúe como asistente accesible, ágil y sencillo de usar, maximizando la
+inmediatez de la respuesta.
+
+El prototipo preliminar contempla unas gafas equipadas con dos cámaras y
+auriculares de conducción ósea para ofrecer las respuestas mediante audio sin
+bloquear el canal auditivo, como sí ocurre con auriculares convencionales.
+
+He realizado una primera revisión de sistemas similares y he encontrado las
+siguientes propuestas:
+
+ * 
+
+    Ray-Ban | Meta
+https://www.ray-ban.com/spain/electronics/RW4012ray-ban%20%7C%20meta%20wayfarer
+    %20-%20gen%202-negro/8056262721414
+
+ * 
+
+    Envision Glasses
+    https://www.letsenvision.com/glasses/es
+
+ * 
+
+    OrCam MyEye
+https://www.orcam.com/es-es/orcam-myeye?srsltid=AfmBOopZ2je2txAJ26uNXTnsJznCADN
+    TLLij5Q53Piv7aIxtxthcKLOq
+
+ * 
+
+    ArxVision
+https://arx.vision/?srsltid=AfmBOoqhhFGqlL_kuVIErYIvFSvASu3XH2FSbHBOWbQomDLwt0D
+    g4dVC
+
+Todas estas soluciones aportan valor, pero ninguna llega a funcionar como un
+asistente integral, y la mayoría supera ampliamente los mil euros. De esta
+revisión preliminar se desprende que funcionalidades como la lectura de texto o
+la transcripción en tiempo real ya están bastante cubiertas. Sin embargo,
+capacidades como la búsqueda de objetos, la descripción precisa de atributos
+(como el color o la posición), o la detección de obstáculos específicos —p. ej.,
+puertas abiertas/cerradas, cajones, armarios— siguen sin estar resueltas de
+forma completa o fiable.
+
+Soy consciente de las limitaciones técnicas y de que un proyecto de esta
+envergadura excede, en gran medida, el marco de un TFG, e incluso el de una
+tesis. Aun así, por su carácter social y el impacto potencial en la autonomía de
+las personas con discapacidad visual, me gustaría avanzar hacia ese objetivo en
+la medida de lo posible, comenzando por el TFG y siguiendo con futuras líneas de
+trabajo.
+
+Por ello, valoro enormemente tu apoyo y experiencia. Me resulta especialmente
+interesante la línea planteada en el artículo Describe Anything, ya que aborda
+aspectos cruciales para el reconocimiento de objetos en vídeo y podría ser clave
+para funcionalidades como la descripción del color de un objeto, la estimación
+de su posición o la detección de puertas abiertas y cerradas.
+
+Muchas gracias por tu tiempo y por el interés en la propuesta.
+
+Un Cordial Saludo
+
+Anaís Gómez Marí
+
+
+
+
+    [ Part 2, Application/PDF (Name: "DescribeAnything.pdf") 21 MB. ]
+    [ Unable to print this part. ]

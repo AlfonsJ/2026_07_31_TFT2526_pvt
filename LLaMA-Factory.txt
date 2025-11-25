@@ -1,1 +1,13 @@
 https://github.com/hiyouga/LLaMA-Factory
+
+https://llamafactory.readthedocs.io/en/latest/
+
+docker run -it --rm --gpus=all --ipc=host hiyouga/llamafactory:latest
+
+GRADIO_SHARE=1 llamafactory-cli webui
+
+ssh username@server -L 7860:localhost:7860
+
+docker run -it --rm --net=host --gpus=all hiyouga/llamafactory:latest
+
+

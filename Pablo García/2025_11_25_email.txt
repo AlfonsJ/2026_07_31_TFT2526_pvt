@@ -1,0 +1,34 @@
+From ajuan@dsic.upv.es Tue Nov 25 13:06:39 2025
+Date: Tue, 25 Nov 2025 13:06:35 +0100
+From: Alfons Juan <ajuan@dsic.upv.es>
+To: Pablo García López <pgarlop@alumni.upv.es>
+Cc: Alfons Juan <ajuan@dsic.upv.es>
+Subject: [TFM PG] reu 25Nov25
+
+
+https://blog.spheron.network/comparing-llm-fine-tuning-frameworks-axolotl-unsloth-and-torchtune-in-2025
+
+https://hiya31.medium.com/the-fine-tuning-renaissance-comparing-llama-factory-unsloth-deepspeed-and-axolotl-d67d26b26be4
+
+Ëchales un vistazo y nos reunimos de nuevo, en un par de semanas o así.
+
+
+
+    [ Part 2, ""  Text/PLAIN (Name: "deepspeed.txt") ~28 bytes. ]
+    [ Unable to print this part. ]
+
+
+    [ Part 3, ""  Text/PLAIN (Name: "llamafactory.txt") ~339 bytes. ]
+    [ Unable to print this part. ]
+
+
+    [ Part 4, ""  Text/PLAIN (Name: "axolotl.txt") ~496 bytes. ]
+    [ Unable to print this part. ]
+
+
+    [ Part 5, ""  Text/PLAIN (Name: "docker.txt") ~994 bytes. ]
+    [ Unable to print this part. ]
+
+
+    [ Part 6, ""  Text/PLAIN (Name: "nvidia-ctk.txt") ~1.3 KB. ]
+    [ Unable to print this part. ]

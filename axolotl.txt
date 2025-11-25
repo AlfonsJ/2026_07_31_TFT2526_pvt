@@ -1,3 +1,5 @@
+https://blog.spheron.network/comparing-llm-fine-tuning-frameworks-axolotl-unsloth-and-torchtune-in-2025
+
 https://docs.axolotl.ai/
 
 docker run --gpus all -v /home/ajuan:/mnt/ajuan --rm -it axolotlai/axolotl:main-latest

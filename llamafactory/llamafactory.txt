@@ -10,4 +10,9 @@ ssh username@server -L 7860:localhost:7860
 
 docker run -it --rm --net=host --gpus=all hiyouga/llamafactory:latest
 
+llamafactory-cli webui
+
+
+
+
 

@@ -19,3 +19,6 @@ sudo docker run --rm --runtime=nvidia --gpus all ubuntu nvidia-smi
 
 https://machinelearningmastery.com/the-complete-guide-to-docker-for-machine-learning-engineers
 
+https://docs.docker.com/compose/gettingstarted/
+
+
